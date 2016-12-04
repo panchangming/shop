@@ -1,0 +1,49 @@
+10
+
+dir
+0
+http://lenovo-pc:81/svn/repositoryB/trunk/Application/View/Admin/Admin/Admin
+http://lenovo-pc:81/svn/repositoryB
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+85dd84fa-70ef-ce4e-ad69-462945b54fde
+
+add.html
+file
+
+
+
+add
+
+edit.html
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/repositoryB/!svn/ver/2/trunk/Framework
+END
+Framework.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/repositoryB/!svn/ver/2/trunk/Framework/Framework.class.php
+END
+Model.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/repositoryB/!svn/ver/2/trunk/Framework/Model.class.php
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/repositoryB/!svn/ver/2/trunk/Framework/.htaccess
+END
+Controller.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repositoryB/!svn/ver/2/trunk/Framework/Controller.class.php
+END
